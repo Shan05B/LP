@@ -55,3 +55,9 @@ if solve(0):
 
 else:
     print("No Solution")
+
+
+"""# Row 1: 0 1 1 1
+# Row 2: 1 0 1 0 
+# Row 3: 1 1 0 1
+# Row 4: 1 0 1 0"""
